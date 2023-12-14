@@ -9,9 +9,9 @@
 		<relativePath/>
 	</parent>
 	<groupId>com.cesar</groupId>
-	<artifactId>BasicApi</artifactId>
+	<artifactId>BasicApi1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>BasicApi</name>
+	<name>BasicApi1</name>
 	<description></description>
 	<properties>
 		<java.version>17</java.version>
